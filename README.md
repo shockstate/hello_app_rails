@@ -1,5 +1,7 @@
 == README
 
+FOr the moment I just have a hello world application, keep waitin'!
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
